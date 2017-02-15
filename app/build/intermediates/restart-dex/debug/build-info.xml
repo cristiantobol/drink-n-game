@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="7521392957353"
+    token="1017748148413751755" >
+
+    <task
+        name="javac"
+        duration="36841" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="700" />
+    <task
+        name="verifier"
+        duration="594" />
+
+    <artifact
+        location="T:\Year2\Team Project\Drink&amp;apos;N&amp;apos;Game\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="7521392957353" >
+        <artifact
+            location="T:\Year2\Team Project\Drink&amp;apos;N&amp;apos;Game\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
